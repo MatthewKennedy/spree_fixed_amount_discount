@@ -1,4 +1,4 @@
-# SpreeFixedAmountDiscount
+# Spree Fixed Amount Discount
 
 Introduction goes here.
 
