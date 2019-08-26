@@ -1,7 +1,5 @@
 # Spree Fixed Amount Discount
 
-Introduction goes here.
-
 ## Installation
 
 1. Add this extension to your Gemfile with this line:
@@ -23,8 +21,6 @@ Introduction goes here.
 Under the Promotion Actions panel select **Create per-line-item adjustment** and click **Add**. In the drop-down menu you should see **Fixed Amount (Items total)**, select this, click update and then enter a fixed amount and currency that you want to deduct from the order.
 
 You should now have a whole order style discount that takes into account each line items tax.
-
-**NOTE:** Please be aware that this promotion will not be calculated correctly if you set Product Based Rules.
 
 ## Testing
 
